@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/IamLoren/chemical/static/css/main.f855e6bc.css",
-    "main.js": "/IamLoren/chemical/static/js/main.4647cd2c.js",
+    "main.js": "/IamLoren/chemical/static/js/main.8d960ab6.js",
     "index.html": "/IamLoren/chemical/index.html",
     "main.f855e6bc.css.map": "/IamLoren/chemical/static/css/main.f855e6bc.css.map",
-    "main.4647cd2c.js.map": "/IamLoren/chemical/static/js/main.4647cd2c.js.map"
+    "main.8d960ab6.js.map": "/IamLoren/chemical/static/js/main.8d960ab6.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.4647cd2c.js"
+    "static/js/main.8d960ab6.js"
   ]
 }
